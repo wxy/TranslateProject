@@ -3,22 +3,21 @@
 [#]: author: "Ankush Das https://news.itsfoss.com/author/ankush/"
 [#]: collector: "lkxed"
 [#]: translator: "lkxed"
-[#]: reviewer: "wxy"
-[#]: publisher: "wxy"
-[#]: url: "https://linux.cn/article-14586-1.html"
+[#]: reviewer: " "
+[#]: publisher: " "
+[#]: url: " "
 
 好消息！Docker Desktop 现已支持 Linux
 ======
-
-> 你现在可以在 Linux 上使用 Docker Desktop 无缝地创建容器了！它可在 Debian、Ubuntu 和 Fedora 上使用，并为 Arch Linux 提供了实验性支持。
+你现在可以在 Linux 上使用 Docker Desktop 无缝地创建容器了！它可用于 Debian、Ubuntu 和 Fedora，并对 Arch  Linux 提供实验性支持。
 
 ![Docker][1]
 
 Docker Desktop 是容器化应用程序的最简单的方法。有了它，你就不需要预先设置平台相关环境。
 
-你只需要安装 Docker Desktop 就可以开始了。Docker Desktop 附带了许多容器工具，如 Kubernetes、Docker Compose、BuildKit 和漏洞扫描工具。
+你只需要安装 Docker Desktop，就可以开始了。Docker Desktop 附带了许多容器工具，如 Kubernetes、Docker Compose、BuildKit 和漏洞扫描工具。
 
-此前，它可用于 Windows 和 macOS，但不支持 Linux 平台。所以，Linux 用户只好直接与 Docker 引擎交互，以创建/测试他们的 Docker 容器。
+此前，它可用于 Windows 和 macOS，但不支持 Linux 平台。所以，Linux 用户只好直接与 docker 引擎交互，以创建/测试他们的 docker 容器。
 
 终于，现在所有 Linux 用户也可以通过 Docker Desktop 来方便地使用 Docker 了。
 
@@ -36,7 +35,7 @@ Docker Desktop 是容器化应用程序的最简单的方法。有了它，你�
 
 ### 在 Linux 上安装 Docker Desktop
 
-值得注意的是，目前（在 Linux 上）安装 Docker Desktop 并不是超容易，但也不会十分复杂。
+值得注意的是，目前（在 Linux 上）安装 Docker Desktop 并不会很容易，但也不会十分复杂。
 
 Docker 团队计划尽快改进安装和更新过程。
 
@@ -62,7 +61,7 @@ via: https://news.itsfoss.com/docker-desktop-linux/
 作者：[Ankush Das][a]
 选题：[lkxed][b]
 译者：[lkxed](https://github.com/lkxed)
-校对：[wxy](https://github.com/wxy)
+校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
